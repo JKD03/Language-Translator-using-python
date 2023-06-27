@@ -1,3 +1,5 @@
 # Language-Translator-using-python
-made using langdetect and deep_translator
+Made using langdetect and deep_translator
+
+* output
 ![Output img](/output.png)
